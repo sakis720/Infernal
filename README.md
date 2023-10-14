@@ -15,4 +15,3 @@ Infernal is a Multi-Tool for modding Ghostbusters The Video Game Remastered
 * Guides
   * Dante Modding  
   * LVL Modding
-  * Fuctions
