@@ -1,4 +1,4 @@
-# Infernal
+<h1 align="center">Infernal</h1>
 
 A multi-tool for GB TVG:R modding
 
