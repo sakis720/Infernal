@@ -12,6 +12,6 @@ Infernal is a Multi-Tool for modding Ghostbusters The Video Game Remastered
 * SMP Stripper
 * POD Tool
 * Multiplayer Texture Porting
-* Guides
+* Guides (Not yet included)
   * Dante Modding  
   * LVL Modding
