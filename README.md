@@ -15,3 +15,9 @@ Infernal is a Multi-Tool for modding Ghostbusters The Video Game Remastered
 * Guides (Not yet included)
   * Dante Modding  
   * LVL Modding
+ 
+## Alpha Branch
+* v0.01
+    * Pre-Release WIP
+    * Cannot select which .tex you want to port
+    * Every Multiplayer Texture can be viewed now via tex2dds
