@@ -28,7 +28,7 @@ Infernal is a Multi-Tool for modding Ghostbusters The Video Game Remastered
     * Quick POD's Extract
 * v0.03
     * Added PKG Exporter
-    * -PODLZX To POD 
+    * PODLZX To POD 
 
 ## Thanks To
 * [NomadWithoutAHome]( https://github.com/NomadWithoutAHome)
