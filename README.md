@@ -22,7 +22,6 @@ Infernal is a Multi-Tool for modding Ghostbusters The Video Game Remastered
     * Cannot select which .tex you want to port
     * Every Multiplayer Texture can be viewed now via tex2dds
 * v0.02
-    * Pre-Release WIP
     * Quick POD's Extract
 
 ## Thanks To
