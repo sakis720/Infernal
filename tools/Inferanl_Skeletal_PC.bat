@@ -1,0 +1,1 @@
+start skelet_pc.exe Skeletal_Sample\sample.bfm skelet_pc.exe Skeletal_Sample\sample.skb
