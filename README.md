@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/sakis720/Infernal/blob/main/Icons">
-        <img height="120px" src="https://github.com/sakis720/Infernal/blob/main/Icons/logo_in.png" />
+        <img height="120px" src="https://github.com/sakis720/Infernal/blob/main-alpha/Icons/Icons/logo_in_blue.png" />
     </a>
 </p>
 
