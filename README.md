@@ -18,6 +18,18 @@ Infernal is a Multi-Tool for modding Ghostbusters The Video Game Remastered
 * Guides (Not yet included)
   * Dante Modding  
   * LVL Modding
+
+## Included Tools
+* Multiplayer Texture Porter
+* [tex2dds]( https://gist.github.com/barncastle/8429b6d3130fca582d1564cdbe47fb8e)
+* BFM To FBX (PC and Console)
+* [QuickBMS]( https://aluigi.altervista.org/quickbms.htm)
+    * PODLZX To POD
+    * PKG Extractor
+    * POD6 Extractor & Repacker
+* [GhostbustersRemasteredSMPSmasher]( https://github.com/NomadWithoutAHome/GhostbustersRemasteredSMPSmasher)
+* Quick Setup
+* more tools to be added :)
  
 ## Alpha Branch
 * v0.01
