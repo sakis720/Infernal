@@ -1,0 +1,1 @@
+start tools\tex2dds.exe tools/Tex_Sample/{}.tex
